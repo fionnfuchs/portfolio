@@ -1,0 +1,107 @@
+body {
+    font-family: 'Noto Sans SC', sans-serif;
+    font-weight: 300;
+}
+
+b {
+    font-weight: 500;
+}
+
+.sociallink {
+    font-size: 120%;
+    padding-left: 4%;
+    color: black;
+    font-weight: 500;    
+}
+
+h1 {
+
+    font-size: 600%;
+    margin: 0pt;
+    line-height: 1.0;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 250%;
+    margin: 5pt;
+    line-height: 1.0;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 200%;
+    margin: 5pt;
+    line-height: 1.0;
+    font-weight: 300;
+}
+
+h4 {
+    font-size: 120%;
+    font-weight: 800;
+    font-style: italic;
+}
+
+.pagecontainer {
+    margin-top: 3%;
+    text-align: center;
+}
+
+.maintextcontainer {
+    text-align: left;
+    width: 50%;
+    display: inline-block;
+}
+
+.textcontainer {
+    text-align: left;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    display: blocK;
+}
+
+.avatarpicture {
+    border-radius:50%;
+    float: right;
+    width: 20%;
+    height: 20%;
+}
+
+.codingactivity {
+    display: inline-block;
+    margin-top: 3%;
+    width:45%;
+}
+
+.gap {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.smallgap {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.project {
+    font-size:120%;
+    padding-left:3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.quote {
+    padding-left:3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+@media (max-width : 1024px) {
+    .maintextcontainer {
+        width:100%;
+    }
+
+    body {
+        margin: 4%;
+    }
+}
