@@ -3,12 +3,18 @@ body {
     font-weight: 300;
 }
 
+
+.socialicon {
+    width: 7%;
+    padding-left: 4%;
+}
+
 b {
     font-weight: 500;
 }
 
 .sociallink {
-    font-size: 120%;
+    font-size: 110%;
     padding-left: 4%;
     color: black;
     font-weight: 500;    
@@ -23,7 +29,7 @@ h1 {
 }
 
 h2 {
-    font-size: 250%;
+    font-size: 150%;
     margin: 5pt;
     line-height: 1.0;
     font-weight: 700;
@@ -37,7 +43,7 @@ h3 {
 }
 
 h4 {
-    font-size: 120%;
+    font-size: 110%;
     font-weight: 800;
     font-style: italic;
 }
@@ -84,7 +90,7 @@ h4 {
 }
 
 .project {
-    font-size:120%;
+    font-size:110%;
     padding-left:3%;
     margin-top: 3%;
     margin-bottom: 3%;
@@ -94,7 +100,7 @@ h4 {
     padding-left:3%;
     margin-top: 3%;
     margin-bottom: 3%;
-    font-size: 120%;
+    font-size: 110%;
 }
 
 @media (max-width : 1024px) {
